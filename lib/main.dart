@@ -1,4 +1,5 @@
 import 'package:bunch_of_tasks/first/counter_page.dart';
+import 'package:bunch_of_tasks/second/list_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -31,7 +32,7 @@ class MyApp extends StatelessWidget {
         // tested with just a hot reload.
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: const CounterPage(),
+      home: const ListPage(),
     );
   }
 }
