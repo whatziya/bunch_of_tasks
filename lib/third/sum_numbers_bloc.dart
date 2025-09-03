@@ -1,5 +1,5 @@
-import 'package:bunch_of_tasks/third/bloc/sum_numbers_event.dart';
-import 'package:bunch_of_tasks/third/bloc/sum_numbers_state.dart';
+import 'package:bunch_of_tasks/third/sum_numbers_event.dart';
+import 'package:bunch_of_tasks/third/sum_numbers_state.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:rxdart/rxdart.dart';
 
