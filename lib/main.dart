@@ -1,4 +1,3 @@
-import 'package:bunch_of_tasks/first/counter_page.dart';
 import 'package:bunch_of_tasks/second/list_page.dart';
 import 'package:flutter/material.dart';
 
